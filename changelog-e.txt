@@ -1,8 +1,8 @@
-Version 9. Changelog:
+Version 8. Changelog:
 
 >Added Short Video Comments Copy
 >Added Dislike Button
 >Added Download Settings
 >Added SponsorBlock Settings
->Base Update 18.04.36
+>Base Update 17.04.36
 >Bugs Fixed
