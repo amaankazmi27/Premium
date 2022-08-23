@@ -1,4 +1,4 @@
-Version 5. Changelog:
+Ð’ÐµÑ€ÑÐ¸Ñ 4. Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ:
 
 >Added monet theme for Android 12+
 >Made with ❤️ by Amaan kazmi
