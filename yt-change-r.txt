@@ -1,3 +1,4 @@
-Ð’ÐµÑ€ÑÐ¸Ñ 14. Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ:
+Version 5. Changelog:
 
->Made with ❤️ by Amaan kazmi 
+>Added monet theme for Android 12+
+>Made with ❤️ by Amaan kazmi
