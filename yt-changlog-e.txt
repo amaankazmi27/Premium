@@ -1,4 +1,11 @@
-Version 5. Changelog:
+What's new in version 5.0 ~
 
->Added monet theme for Android 12+
->Made with ❤️ by Amaan kazmi
+>The base has been updated to the latest in Google Play 17.25.35
+>Added OTA Updates 
+>Added microG installer
+>Added some new settings
+>Added monet splash for Android 12, 13+
+>Fixed all downloading problem
+>Fixed disliker counter
+
+~Made with ❤️ by Amaan kazmi
