@@ -1,11 +1,25 @@
-What's new in version 5.0 ~
+Dear premium users ~
+Hope your are all good:')
 
->The base has been updated to the latest in Google Play 17.25.35
->Added OTA Updates 
->Added microG installer
->Added some new settings
->Added monet splash for Android 12, 13+
->Fixed all downloading problem
->Fixed disliker counter
+"So, from past 2-3 weeks i was working on 
+Instagram premium mod and now the mod is about 60% ready but a 
+lot of work is still undone and i don't have enough time to test
+the apk and find bugs, So I've released a beta update on my website.
+Please test that version out and send bugs !!
 
-~Made with ❤️ by Amaan kazmi
+Features of Instgram premium ~
+
+1. Download any video/post/reel/story.
+
+2. See anyone's profile pic in HD.
+
+3. Added Ghost mode for ultra privacy.
+
+4. Added message translator.
+
+4. Added message bomber.
+
+5. Added video scrubber.
+
+
+Made with ❤️ by Amaan kazmi 
