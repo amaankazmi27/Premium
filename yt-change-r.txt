@@ -3,9 +3,9 @@ Hope your are all good:')
 
 "So, from past 2-3 weeks i was working on 
 Instagram premium mod and now the mod 
-is about 60% ready but a lot of work is still undone and i don't have enough time to test
-the apk and find bugs, So I've released a beta update on my website.
-Please test that version out and send bugs !!
+is about 60% ready but a lot of work is still undone and i don't have enough time to 
+test the apk and find bugs, So I've released a beta version on my website.
+Please test that version out and send bugs"
 
 Features of Instgram premium ~
 
